@@ -1,0 +1,10 @@
+
+bin/
+*.bak
+*.swp
+local.properties
+.settings/
+*.class
+*.jar
+*~
+gen
